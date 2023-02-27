@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Apni Sawari - Admin Panel/OTP",
+      "brokenLocator": "//input[@id\u003d\u0027otp\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div/div/div/form/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Apni Sawari - Admin Panel/OTP_idRelative.png"
+    }
+  ]
 }
