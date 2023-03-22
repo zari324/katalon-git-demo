@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ssi-icon</name>
+   <tag></tag>
+   <elementGuidId>5abbebf4-bd24-484b-8e7c-3d25842958bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ssi-icon-moreArrow.icon-moreArrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnAdvanceFilter']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4777e91f-0cf9-422c-b882-77a0dd4a0743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ssi-icon-moreArrow icon-moreArrow</value>
+      <webElementGuid>17dc06c1-0af3-4e87-ad59-fdf6a43a8b96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnAdvanceFilter&quot;)/span[@class=&quot;ssi-icon-moreArrow icon-moreArrow&quot;]</value>
+      <webElementGuid>800621ae-e3cd-4bcc-9ca5-075df2c9617b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7e0628ec-6ec9-491d-af85-7adb6260c8da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ssi-icon-moreArrow icon-moreArrow</value>
+      <webElementGuid>68c25b0e-7633-4c78-91a4-7e0606565839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnAdvanceFilter&quot;)/span[@class=&quot;ssi-icon-moreArrow icon-moreArrow&quot;]</value>
+      <webElementGuid>3746b429-b17d-4aa9-bb0d-afd678a4db91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b858272d-292b-4e1e-823e-4bc06b58087b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ssi-icon-moreArrow icon-moreArrow</value>
+      <webElementGuid>028482db-c123-4848-b91e-966fba85d340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnAdvanceFilter&quot;)/span[@class=&quot;ssi-icon-moreArrow icon-moreArrow&quot;]</value>
+      <webElementGuid>db9ad797-6ce9-436e-8619-817be0cca1a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='btnAdvanceFilter']/span</value>
+      <webElementGuid>ecfcacd5-95c2-43ce-b8e8-e8e62bae18d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::span[1]</value>
+      <webElementGuid>0dac3302-dab5-4252-a05e-2c0d67ac807f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Attendance'])[3]/following::span[3]</value>
+      <webElementGuid>71e153b9-41d1-400c-a98f-e2a858f38ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/preceding::span[1]</value>
+      <webElementGuid>2add0593-6228-4832-a1f2-1dfb86ad14f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[2]/preceding::span[1]</value>
+      <webElementGuid>0ed573b8-eb18-474e-88ba-3012e4da5bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/ul/li/a/span</value>
+      <webElementGuid>3c5a7950-22e1-42cf-85e8-336cdc8318a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
