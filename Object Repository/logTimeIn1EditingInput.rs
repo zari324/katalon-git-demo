@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logTimeIn1EditingInput</name>
+   <tag></tag>
+   <elementGuidId>f7fa9be3-3088-4525-81f0-ddee2386f0cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>logTimeIn1EditingInput</value>
+      <webElementGuid>5db1bfa0-75fb-42ba-9c61-9b11b37d3fb6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

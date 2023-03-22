@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Feedback_icon</name>
+   <tag></tag>
+   <elementGuidId>a2235465-47ff-4302-8496-2e06ebf55830</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon.icon-operations</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slidemenu']/ul/li[2]/a/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ff43c6ba-0186-4437-addb-d13c8079b9ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-operations</value>
+      <webElementGuid>140d5bcd-0021-4c6c-8383-ec13c5145a28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slidemenu&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;root-menu has-drop&quot;]/a[@class=&quot;top-menu-icon&quot;]/span[@class=&quot;icon-holder&quot;]/span[@class=&quot;icon icon-operations&quot;]</value>
+      <webElementGuid>5727a3ea-4435-420b-aed2-850d7d57a276</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slidemenu']/ul/li[2]/a/span/span</value>
+      <webElementGuid>544aa5ce-a7a0-4c30-96cc-44b9c67693a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/a/span/span</value>
+      <webElementGuid>936b7d28-1579-4442-a8a2-91331c4de9e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
